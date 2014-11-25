@@ -151,7 +151,7 @@ $(function () {
      *         bounds of the grid, returns false otherwise.
      */
     function validPosition(row, col){
-        alert("row: " + row = "col: " + col);
+        alert("row: " + row + "col: " + col);
     }
 
 
